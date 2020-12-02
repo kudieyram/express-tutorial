@@ -1,3 +1,0 @@
-username = eyram
-password = P9SMvXDceSw900Of
-dbconnection = mongodb+srv://eyram:P9SMvXDceSw900Of@cluster0.mtgs7.mongodb.net/soronko
